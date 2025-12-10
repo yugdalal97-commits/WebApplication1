@@ -26,3 +26,4 @@ app.MapRazorPages()
 app.Run();
 
 //lingling
+//Nigugu gaga
