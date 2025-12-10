@@ -22,8 +22,7 @@ app.UseAuthorization();
 app.MapStaticAssets();
 app.MapRazorPages()
    .WithStaticAssets();
-//chagdo
 app.Run();
 
 //lingling
-//Nigugu gaga
+//Nigugu gagas
